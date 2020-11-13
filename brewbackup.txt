@@ -182,8 +182,6 @@ brew "lyft/formulae/set-simulator-location"
 brew "mongodb/brew/mongodb-community"
 # Ookla Speedtest
 brew "teamookla/speedtest/speedtest"
-# Simplified and community-driven man pages
-brew "tldr-pages/tldr/tldr"
 # Apple simulator utilities
 brew "wix/brew/applesimutils"
 cask "adoptopenjdk8"
